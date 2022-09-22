@@ -15,6 +15,5 @@ I learned how accessible HTML elements interact with screen readers and the bene
 - Git
 - HTML
 - CSS
-- My big brain
 
 ## Credits
